@@ -60,14 +60,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Product Page | Checkout |
-|-----------|-------------|----------|
-| ![Home](https://source.unsplash.com/featured/?homepage) | ![Product](https://source.unsplash.com/featured/?product) | ![Checkout](https://source.unsplash.com/featured/?checkout) |
-
----
-
 ## 🤝 Contribution
 
 🙌 Contributions are welcome! Please follow these steps:
@@ -87,6 +79,6 @@
 
 ## 📬 Contact
 
-📧 **Email:** [your.email@example.com](mailto:yadavmannn0421@gmail.com)  
-🌍 **Portfolio:** [your-portfolio.com](https:linkedin.com/u/yadavmannn)  
+📧 **Email:** [yadavmannn0421@gmail.com](mailto:yadavmannn0421@gmail.com)  
+🌍 **Portfolio:** [linkedin.com/u/yadavmannn](https://linkedin.com/u/yadavmannn)  
 
