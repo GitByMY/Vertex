@@ -1,8 +1,11 @@
 # 🛍️ Vertex - Full Stack eCommerce
 
-![eCommerce Banner](https://source.unsplash.com/featured/?shopping,ecommerce)
-
 🚀 **Vertex** is a modern, scalable, and feature-rich Full Stack eCommerce application built with cutting-edge technologies. This project delivers a seamless shopping experience with a dynamic UI, secure backend, and robust payment integration.
+
+---
+
+## 🚀 Live Demo
+[🔗 Click here to try the live app](https://miscacc0421.wixstudio.com/voulezvoir)
 
 ---
 
@@ -52,11 +55,6 @@
    npm run dev  # Backend
    cd frontend && npm start  # Frontend
    ```
-
----
-
-## 🚀 Live Demo
-[🔗 Click here to try the live app](https://miscacc0421.wixstudio.com/voulezvoir)
 
 ---
 
